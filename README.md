@@ -1,3 +1,4 @@
-demo http://kmdsbng.github.com/emberjs_life_game/
+
+demo http://kmdsbng.github.com/emberjs_each_action/
 
 
